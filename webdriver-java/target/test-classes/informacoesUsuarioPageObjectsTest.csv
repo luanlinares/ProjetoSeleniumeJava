@@ -1,0 +1,4 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,login,senha,tipo,contato,mensagemEsperada
+                                            ,julio0001,123456,Phone,+5514981166926,Your contact has been added!
+                                            ,julio0001,123456,Phone,+5511999999999,Your contact has been added!
+                                            ,julio0001,123456,E-mail,test2@teste.com,Your contact has been added!
